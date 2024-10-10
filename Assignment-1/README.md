@@ -1,7 +1,7 @@
 # CS 613: NLP
 ## Assignment 1: Data Preparation and De-duplication
 
-Link to HuggingFace repository containing the scraped datasets - {https://huggingface.co/datasets/snehagautam/nlp_webscraping/tree/main}
+Link to HuggingFace repository containing the scraped datasets - https://huggingface.co/datasets/snehagautam/nlp_webscraping/tree/main
 
 Contribution:
 
