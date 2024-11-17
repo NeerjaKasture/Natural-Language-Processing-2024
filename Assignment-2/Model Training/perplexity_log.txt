@@ -1,0 +1,3 @@
+Step 6733: Perplexity 188.9533
+Step 13466: Perplexity 148.8293
+Step 20199: Perplexity 120.6628
