@@ -18,7 +18,7 @@ It also has the code for deduplication using MinHash and SimHash, and data clean
 
 Contains code used to train tokenizer ( ByteLevelBPETokenizer, SentencePieceBPETokenizer) and train the model (LlamaForCausalLM architecture) from scratch using Google Colab GPUs.
 
-The datasets and model can be found on HuggingFaces [https://huggingface.co/datasets/NeerjaK/Urdu_Model/tree/main], [https://huggingface.co/NeerjaK/Urdu_Model/tree/main]
+The datasets and model can be found on HuggingFaces : https://huggingface.co/datasets/NeerjaK/Urdu_Model/tree/main [https://huggingface.co/NeerjaK/Urdu_Model/tree/main]
 
 ## Assignment 3
 
