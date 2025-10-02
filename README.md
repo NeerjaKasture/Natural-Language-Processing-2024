@@ -14,6 +14,8 @@ Contains code to scrape urdu words from the following sources:
 
 It also has the code for deduplication using MinHash and SimHash, and data cleaning using a manually selected 'Negative Words' list.
 
+The cleaned data can be found on Huggingfaces. [link](https://huggingface.co/datasets/snehagautam/nlp_webscraping/tree/main)
+
 ## Assignment 2
 
 Contains code used to train tokenizer ( ByteLevelBPETokenizer, SentencePieceBPETokenizer) and train the model (LlamaForCausalLM architecture) from scratch using Google Colab GPUs.
